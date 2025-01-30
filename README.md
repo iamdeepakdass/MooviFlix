@@ -14,5 +14,5 @@ react-use (https://www.npmjs.com/package/react-use)
 
 ### Preview:
 
-![home page](image.png)
+![home page](image-3.png)
 ![trending section](image-1.png)
